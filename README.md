@@ -1,7 +1,14 @@
 # just-tech-news
 
-### This app will be used as a blog style posting site, where users can login securely and post, comment or upvote posts on the site.
-### as a secured logged in user, you can create new posts, edit your posts or delete them. You can also see other users posts and make comments or upvote their posts
+### User Story
+As a User I would like to have a blog site that I can view tech posts and post my own tech posts. When I load the page for the first time I should see a list of other users posts. I would like a secured login to the site. After I have logged in, I would also like to be able to comment on other posts. And also be able to upvote a post as a like.
+### Features.
+This site features a main paghe listing other posts from all users.
+This site features a secured login for users.
+This site is a blog style site that allows users to post articles to the site.
+Users can comment on other users' posts and also like or upvote the posts.
+Users can edit their posts, or delete them.
+Users can also delete their comments.
 
 
 ### badges
@@ -20,14 +27,26 @@
 - [Questions](#questions)
 
 ### Installation
-You can use the following by cloning the github repository and running the program from the command line using npm start and visiting http://localhost:3001
+1. Start by cloning the repository here : https://github.com/Vinyldude8896/just-tech-news
+2. run dependancies from the terminal using npm install
+3. then run npm start and navigate to the localhost at : http://localhost:3001
+4. the web app should be displayed.
 
 
 
 ### Contribution Guidelines
-N/A as of yet
+Current contributers:
+Kevin Reid : https://github.com/Vinyldude8896 <br />
 ### Testing
-Multiple days were spent testing to ensure proper data was being written to the JSON file and retrieved properly.
+1. Start by cloning the repository here : https://github.com/Vinyldude8896/just-tech-news
+2. Run dependancies from the terminal using npm install
+3. Then run npm start and navigate to the localhost at : http://localhost:3001
+4. The web app should be displayed.
+5. Try siging up as a new user.
+6. When signed in, create a new blog post, edit the post or delete the post.
+7. Try adding a comment to another post.
+8. Try deleting that comment.
+
 ### Questions
     email address : kevinnivek@me.com
     - additional instructions 
